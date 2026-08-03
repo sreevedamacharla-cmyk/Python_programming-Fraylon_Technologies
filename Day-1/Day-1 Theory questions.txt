@@ -1,0 +1,31 @@
+1.      Python is a high-level, general- purpose, interpreted programming language that is known for its simplicity and readable syntax.
+	It was created by Guido Van Rossum in 1991.
+
+2.	Fields where python is used and their respective tools:
+		1. Web development	-	Django  [a python framework]
+		2. Data Science		-	Pandas, Matplotloib [a library in python]
+		3. AI/ML	-	TensorFlow, scikitlearn
+		4. Automation/ Scripting		-	requests
+
+3.	Compiled language: Translated the entire source code into machine code all at once before the execution.
+	Interpreted language: Translates and executes code line by line during the run time.
+
+4.	Dynamically typed means that you don't have to declare the datatype of the variable explicitly, Python determines the datatype at runtime.
+	Ex: x=5   #x is an integer;
+	      x="5"   #x is a string
+
+7.	In python2 "print" was a statement 
+		Ex: (print "hi")
+	whereas in python3, print is a function 
+		Ex: print("hi")
+
+8. Python is considered beginner-friendly because of it simpler syntax and more easy readability and there is no specific need for compilation.
+
+9.	Syntax is a set of grammar rules which defines how a code must be structured for the interpreter to understand.
+	Statement is a single complete instruction that python can execute. 
+
+16.	True is a built-in Boolean keyword while true is not recognized by python as python is case-sensitive and hence returns an error.
+
+18.	import this prints a manifesto/poem outlining python's design philosophy named "The Zen of Python".
+
+19.	Using 4 spaces provides visual consistency across different platforms and text editors, preventing accidental indentation errors and bugs caused  by mixing tabs and spaces.	
