@@ -76,3 +76,33 @@ b=5
 if a>b:
     print("A")
 print("B")
+
+
+
+#Practice questions
+#1
+cat="milo"
+cat="sugar"
+print(cat)
+
+
+
+#2
+number=8
+if number>5:
+    print("Message 1")
+    print("Message 2")
+
+print("Message 3")
+
+
+
+#3
+
+val1=50
+print(val1+20) 
+print(type(val1))#int
+
+val2="20"
+print(val2+"20") 
+print(type(val2)) #str
