@@ -1,0 +1,21 @@
+91.	When a variable is created outside any function and is accessible throughout the code including inside the functions is called global scope.
+	A variable created inside a function is a local variable and is only accessed within the function , 
+	this is known as local scope.
+
+93.	increment without global fails because assignment makes a variable local in python , without 	global , local count has no value so it fails.
+
+95.	Local variable referenced before assignment: when a name is assigned anywhere in a function, python makes it local for the whole function.
+
+96.	LEGB rule: When a name is used, python looks it up in the order: Local, Enclosing, global and 	then built-in.
+
+98.	Globals make programs harder to reason because any function might change them whereas passing values as arguments and using returns keep each function self-contained and easier to 	reason.
+
+114.	Strings are immutable because methods used on strings do not change them but return a complete new string.
+
+116. Falsy values in python are 0, empty collections and None.
+
+121.	"is" is preferred over == because none is a singleton object and "is" checks identity of the singleton
+
+
+
+	
