@@ -83,3 +83,54 @@ print(word[::2])
 
 #46
 print(word[1:-1])
+
+
+#Practice problems
+#1
+print(word[-3:])
+
+
+#2
+print(string[::-1])
+
+
+#3
+print(string[0],string[-1])
+
+
+#4
+s="hello"
+# print(s[10])  # raises an error "string indexing out of range" as 10th index is not present in the word.
+
+
+#5
+print(string[0:len(string)])
+
+
+#6
+print(word[:-2])
+
+
+#7
+text=input("Enter a word to check Palindrome: ")
+if text==text[::-1]:
+    print("The given word is a Palindrome")
+else:
+    print("The given word is not a Palindrome")
+
+
+#8
+print(word2[::-2])
+
+
+#9
+print(word[3:])
+
+
+#10
+digits="0123456789"
+print(digits[::2])
+
+
+#11
+print(word[0:10:2])
